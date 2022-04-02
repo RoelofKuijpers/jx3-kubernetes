@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - RoelofKuijpers/jx3-kubernetes
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.172.18.0.3.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
